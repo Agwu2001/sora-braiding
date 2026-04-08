@@ -42,18 +42,10 @@ export default function Home() {
         </a>
 
         <div className="flex flex-wrap gap-4 text-sm font-medium md:text-base">
-          <a href="/" className="transition hover:text-[#b08d57]">
-            Home
-          </a>
-          <a href="#services" className="transition hover:text-[#b08d57]">
-            Services
-          </a>
-          <a href="#about" className="transition hover:text-[#b08d57]">
-            About
-          </a>
-          <a href="#contact" className="transition hover:text-[#b08d57]">
-            Contact
-          </a>
+        <a href="/" className="transition hover:text-[#b08d57]">Home</a>
+<a href="/services" className="transition hover:text-[#b08d57]">Services</a>
+<a href="/gallery" className="transition hover:text-[#b08d57]">Gallery</a>
+<a href="/contact" className="transition hover:text-[#b08d57]">Contact</a>
         </div>
       </nav>
 
