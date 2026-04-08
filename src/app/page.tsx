@@ -66,7 +66,7 @@ export default function Home() {
           playsInline
           className="absolute inset-0 h-full w-full object-cover"
         >
-          <source src="/Soravidmain.mp4" type="video/mp4" />
+          <source src="/soravidmain.mp4" type="video/mp4" />
         </video>
 
         <div className="absolute inset-0 bg-gradient-to-r from-black/75 via-zinc-800/55 to-[#b08d57]/30"></div>
